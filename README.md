@@ -42,4 +42,4 @@ E-mail:  `vinicius@admin.com` / Senha: `admin`
 
 ### Utilização
 
-A tela inicial é composta por uma grade que contém apenas as notícias em que o usuário selecionou interesse em seu perfil. Há no menu lateral a opção de ver todas as noticias. É possível customizar alguns campos do usuário bem como a opção de adicionar ou remover interesses dentro da tela de perfil de usuario.
+A tela inicial é composta por uma grade que contém apenas as notícias em que o usuário selecionou interesse em seu perfil. Há no menu lateral a opção de ver todas as noticias. É possível customizar alguns campos do usuário bem como a opção de adicionar ou remover interesses dentro da tela de perfil de usuário.
