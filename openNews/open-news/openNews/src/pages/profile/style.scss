@@ -1,0 +1,57 @@
+@import '../../assets/fonts/fonts.scss';
+
+$primary-color: blue;
+$secondary-color:black;
+$third-color:#00bcd4;
+$font-default: 'Open Sans', sans-serif;
+
+.PageProfile{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: fixed;
+  padding-top: 30px;
+  width: 100%;
+  right: -0px;
+  .ContainerProfile{
+    .AvatarProfile{
+      border: 2px $secondary-color solid;
+      border-radius: 180px;
+      width: 180px;
+      height: 180px;
+    }
+    .InputTagSelectorProfile{
+      text-align: left;
+      color: $primary-color ;
+    }
+    .TagSelectorProfile {
+     height: 40px;
+     > .div {
+      margin: 15px 0;
+    }
+     .MuiInputLabel-shrink{
+       display: hidden;
+     }
+     margin-bottom: 25px;
+    }
+  }
+  .TextInput {
+    color: $primary-color;
+    .MuiInputBase-root {
+      width: 360px;
+      font-family: $font-default;
+    }
+    > .div {
+      margin-top: 10px;
+    }
+  }
+  .ButtonSalvarProfile{
+    background-color:$third-color;
+    &:hover{
+      background-color:$third-color;
+      opacity: 0.7;
+    }
+  }
+}

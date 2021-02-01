@@ -1,0 +1,41 @@
+@import '../../assets/fonts/fonts.scss';
+$font-default: 'Open Sans', sans-serif;
+$primary-color: black;
+@font-face {
+  font-family: "Emilys Candy";
+  src: local('Lato'), url('../../assets/fonts/EmilysCandy-Regular.ttf') format('opentype');
+}
+  .IconPrincipal {
+    max-width: 160px;
+    height: 35px;
+    cursor: pointer;
+  }
+  .IconLeftBar{
+    width: 22px !important;
+    height: 22px!important;
+  }
+  .TitlePrincipal{
+    font-family: Emilys Candy !important;
+    color: white;
+    display: block;
+    text-align: center;
+    font-size: 36px !important;
+    text-transform: none !important;
+  }
+  .TextButtons {
+    font-family: $font-default;
+    color: $primary-color;
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    text-transform: none !important;
+  }
+  .ContainerSwitchMainpage{
+    padding-left:0!important;
+  .SwitchMainPage{
+    color: $primary-color !important;
+    .Mui-checked {
+      color: $primary-color !important;
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "admin admin",
+      "email": "admin@admin.com",
+      "password": "123456",
+      "avatar": "https://www.lansweeper.com/wp-content/uploads/2018/05/ASSET-USER-ADMIN.png",
+      "tags": [
+        "Mundo"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "vinicius augusto",
+      "email": "vinicius@admin.com",
+      "password": "admin",
+      "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png",
+      "tags": [
+        "Tecnologia",
+        "Educação",
+        "Economia",
+        "Covid19",
+        "Mundo"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "titulo": "Alemanha ameaça processar laboratórios por atrasos na entrega das vacinas",
+      "subtitulo": "Países da União Europeia querem evitar que o laboratório britânico AstraZeneca exporte vacinas ao Reino Unido e deixe de entregar as doses previstas no acordo com o bloco.",
+      "image": "https://s2.glbimg.com/OYwik-kPwIDTkB_lchC1DV5LFac=/0x0:3691x2421/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/C/W/INhAo4QtmFuwIhgl55kQ/2021-01-27t184054z-326706588-rc2igl9uvmir-rtrmadp-3-health-coronavirus-safrica.jpg",
+      "time": "Há 13 horas",
+      "tag": "Mundo"
+    },
+    {
+      "titulo": "Forte agravamento da pandemia de Covid-19 lota funerárias em Portugal",
+      "subtitulo": "Profissionais relatam cansaço e reforçam as medidas de prevenção após rápido aumento nas mortes pelo coronavírus no país.",
+      "image": "https://s2.glbimg.com/URmEBSvqD8dyJ8mCskoLWW96ZSM=/0x0:5368x3579/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/W/D/TtxyGtQL6NuEWcYn2NoA/000-8zt6qx.jpg",
+      "time": "Há 14 horas",
+      "tag": "Mundo"
+    },
+    {
+      "titulo": "As ocultas marcas deixadas pelo homem no leito mais profundo do oceano",
+      "subtitulo": "Longe do continente, as primeiras tentativas de mineração em alto mar deixaram marcas que ainda perduram décadas depois — um símbolo da colisão de duas escalas de tempo diferentes.",
+      "image": "https://s2.glbimg.com/isZEXgaUs40w2wr8pmtHrPqWtuE=/0x0:800x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/A/W/hFI0PdS0GVdrqkKdP3vQ/01.jpg",
+      "time": "Há 17 horas",
+      "tag": "Mundo"
+    },
+    {
+      "titulo": "Doadora de Trump financiou manifestação que precedeu invasão do Capitólio",
+      "subtitulo": "Julie Jenkins Fancelli teria doado cerca de 300 mil dólares para financiar uma manifestação no parque Ellipse.",
+      "image": "https://s2.glbimg.com/lqGiUUjQm7cjFSqDCeul_nrVEzA=/0x0:800x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/E/k/dJJp8RReCk6znYrVQAAQ/foto4-116385257-2efefdf5-ec80-482d-8204-3ec75e615309.jpg",
+      "time": "Há 17 horas",
+      "tag": "Mundo"
+    },
+    {
+      "titulo": "Tecidos roxos citados na Bíblia são encontrados pela primeira vez em Israel",
+      "subtitulo": "Fragmentos de 3.000 anos atrás datam da época dos reinados de Davi e Salomão. Na Antiguidade, vestes púrpuras eram associadas à nobreza e aos sacerdotes.",
+      "image": "https://s2.glbimg.com/QDmtHcEivG-mN6qiYhKUQRGZ7fY=/0x0:1503x1129/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/x/Z/YNjHlSQP21Tq2tOuckvQ/000-8zu9pj.jpg",
+      "time": "Há 19 horas",
+      "tag": "Mundo"
+    },
+    {
+      "titulo": "França usa cães para detectar coronavírus na transpiração humana",
+      "subtitulo": "Segundo coordenador do projeto, eficácia do método chega a 95%.",
+      "image": "https://s2.glbimg.com/N4eLvOIhtmz47ktPoRCWLb3uds8=/0x0:5800x3859/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/7/2/woba48RNCCig8Vt1krdg/000-8zt8m4.jpg",
+      "time": "Há 17 horas",
+      "tag": "Covid19"
+    },
+    {
+      "titulo": "A mulher de 97 anos que sobreviveu a Auschwitz e à Covid-19",
+      "subtitulo": "Mais de 75 anos após perder mãe e irmãos, assassinados pelos nazistas, Lily Ebert diz que já havia vencido a 'pior situação que um ser humano pode viver'; logo, 'deveria sobreviver a isso também'.",
+      "image": "https://s2.glbimg.com/KdFOnTKYRXhXWXtKkpBvi31j_js=/0x0:800x450/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/T/A/3gjVbTRfiMNmiTN6tKAw/116728109-th4-1.jpg",
+      "time": "Há 2 dias",
+      "tag": "Covid19"
+    },
+    {
+      "titulo": "Eleições no Congresso, resultados de bancos e Payroll",
+      "subtitulo": "Tudo que o investidor precisa saber antes de operar na semana.",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/congresso-3.jpg?w=768&quality=70&strip=all",
+      "time": "Há 2 dias",
+      "tag": [
+        "Economia"
+      ]
+    },
+    {
+      "titulo": "São Paulo cancela ponto facultativo no Carnaval, mas B3 manterá feriado",
+      "subtitulo": "Governo do estado mantém a obrigatoriedade de funcionamento de empresas e órgãos nos dias 15 e 16 de fevereiro.",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/08/b3-1.jpg?w=597&quality=70&strip=all",
+      "time": "Há 10 horas",
+      "tag": "Economia"
+    },
+    {
+      "titulo": "Rali das pessoas físicas divide nomes conhecidos do mercado",
+      "subtitulo": "Aquisições coordenadas em fóruns de papéis vendidos por 'Bancões' tornou-se alvo da mais nova polêmica no universo das finanças.",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2021/01/GameStop-fila-2.jpg?w=768&quality=70&strip=all",
+      "time": "Há 21 horas",
+      "tag": "Economia"
+    },
+    {
+      "titulo": "Fundo Verde, de Luis Stuhlberger, reabrirá para captação em fevereiro",
+      "subtitulo": "Desde sua criação (jan/1997), o Fundo Verde teve retorno de 18.601%, mais de 8 vezes o CDI do período; última reabertura foi em 2018 e durou só dois dias.",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/12/cropped-Luis-Stuhlberger-1.jpg?w=768&quality=70&strip=all",
+      "time": "Há 17 horas",
+      "tag": "Economia"
+    },
+    {
+      "titulo": "As 15 habilidades que estarão em alta no mercado de trabalho até 2025",
+      "subtitulo": "Especialistas mostram como desenvolver as habilidades de carreira que serão mais valorizadas pelas empresas no pós-pandemia.",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2019/06/entrevista-de-emprego-.jpg?w=768&quality=70&strip=all",
+      "time": "Há 21 horas",
+      "tag": "Economia"
+    },
+    {
+      "titulo": "Doação do iFood ao Butantan gera desconforto no setor",
+      "subtitulo": "Iniciativa foi criticada depois que presidente da empresa defendeu antecipar vacina aos entregadores.",
+      "image": "https://f.i.uol.com.br/fotografia/2021/01/14/16106621546000c10a17911_1610662154_3x2_md.jpg",
+      "time": "Há 2 horas",
+      "tag": "Covid19"
+    },
+    {
+      "titulo": "A pandemia de coronavírus está terminando na Índia?",
+      "subtitulo": "Casos caem acentuadamente, aumentando perspectivas de que regiões estejam próximas da imunidade de rebanho.",
+      "image": "https://f.i.uol.com.br/fotografia/2021/01/31/161206204160161d5980e3a_1612062041_3x2_lg.jpg",
+      "time": "Há 11 horas",
+      "tag": "Covid19"
+    },
+    {
+      "titulo": "Escolas particulares privilegiam aulas presenciais para crianças pequenas",
+      "subtitulo": "Unidades fizeram organização para que alunos da educação infantil possam até ir todos os dias.",
+      "image": "https://f.i.uol.com.br/fotografia/2021/01/26/16117072856010b39591c2d_1611707285_3x2_md.jpg",
+      "time": "Há 1 hora",
+      "tag": "Educação"
+    },
+    {
+      "titulo": "Total de vacinados contra coronavírus ultrapassa 2 milhões de pessoas",
+      "subtitulo": "Pessoas que receberam a primeira dose representa 1,24% da população brasileira acima de 18 anos.",
+      "image": "https://f.i.uol.com.br/fotografia/2021/01/18/1610975403600588abd2745_1610975403_3x2_md.jpg",
+      "time": "Há 15 horas",
+      "tag": [
+        "Covid19"
+      ]
+    },
+    {
+      "titulo": "Enem digital tem 1º dia de provas para 2,4 mil candidatos",
+      "subtitulo": "Primeira prova ocorre neste domingo (31) e portões abrem às 11h30. Inscritos devem realizar as avaliações de linguagens, códigos e suas tecnologias, redação e ciências humanas e suas tecnologias.",
+      "image": "https://s2.glbimg.com/lFbA8Mg5IMBkDKofTi0WzpSilzM=/0x0:1350x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/e/7/YlVWwpSqyP9YWw3yEfCA/mouse.jpg",
+      "time": "Há 2 dias",
+      "tag": "Educação"
+    },
+    {
+      "titulo": "Mais de 1,1 mil candidatos são esperados para primeiro dia do Enem digital no Acre",
+      "subtitulo": "Aplicação da versão digital ocorre neste domingo (31) com duração de 5h30 em nove escolas de Rio Branco. Portões vão abrir às 9h30 (horário local) e fecham às 11h (horário local).",
+      "image": "https://s2.glbimg.com/8P-8z0TPvm_x3m5dn7dWPrcDZdQ=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/J/C/kZVnmISo63rw1OWdkdUw/whatsapp-image-2021-01-17-at-09.59.19-1-.jpeg",
+      "time": "Há 11 horas",
+      "tag": "Educação"
+    },
+    {
+      "titulo": "Inscrições para o Fies 2021 do primeiro semestre terminam nesta sexta",
+      "subtitulo": "Como as notas do Enem 2020 serão divulgadas em março, não será possível usar o desempenho desta edição para concorrer ao financiamento estudantil neste primeiro semestre.",
+      "image": "https://s2.glbimg.com/dJXkngrqJ-bkXsoY6B4jBC_d-Xk=/0x0:1293x570/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/g/n/uBzdBmQdKEY2M4OcXmog/fies.png",
+      "time": "Há 1 hora",
+      "tag": "Educação"
+    },
+    {
+      "titulo": "Brasil tem quase 1,4 milhão de crianças e adolescentes fora da escola",
+      "subtitulo": "Mais de 5,5 milhões de crianças e adolescentes não tiveram atividades escolares em 2020, conclui levantamento.",
+      "image": "https://s2.glbimg.com/zVpxa02Fwcgro-zQOeeag8hFM4I=/0x0:1279x717/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/n/4/kgPbxAQPAFyBcvIAAIUw/turmas-ensino-medio.jpg",
+      "time": "Há 2 dias",
+      "tag": "Educação"
+    },
+    {
+      "titulo": "Como receber PIX sem revelar seu CPF ou telefone",
+      "subtitulo": "Muito tem se falado sobre as facilidades e praticidade de realizar transferências por meio do Pix.",
+      "image": "https://img.ibxk.com.br/2021/01/29/29145231882183.jpg?w=1120&h=420&mode=crop&scale=both",
+      "time": "Há 5 horas",
+      "tag": "Tecnologia"
+    },
+    {
+      "titulo": "O carro voador está chegando, mas ele vai servir para alguma coisa?",
+      "subtitulo": "Duvido encontrar algum fã de filmes como De Volta para o Futuro (1985) ou Blade Runner (1982) que não sonhe, desde os anos 1980, com a possibilidade de ter um carro voador.",
+      "image": "https://img.ibxk.com.br/2021/01/29/29165652125242.jpg?w=1120&h=420&mode=crop&scale=both",
+      "time": "Há 1 hora",
+      "tag": "Tecnologia"
+    },
+    {
+      "titulo": "Veja se seu CPF está entre os 223 milhões vazados nesta semana",
+      "subtitulo": "Dois grandes vazamentos de dados expuseram informações de 223 milhões de brasileiros recentemente, incluindo e-mail, telefone, informações fiscais e CPF.",
+      "image": "https://img.ibxk.com.br/2021/01/29/29142628525158.jpg?w=1120&h=420&mode=crop&scale=both",
+      "time": "Há 6 dias",
+      "tag": "Tecnologia"
+    },
+    {
+      "titulo": "Spotify quer usar voz do usuário para sugerir músicas e anúncios",
+      "subtitulo": "O Spotify registrou uma nova tecnologia recentemente para aprimorar o sistema de sugestões da plataforma, mas de uma forma que pode não agradar todos os usuários.",
+      "image": "https://img.ibxk.com.br/2021/01/29/29120121594103.jpg?w=1120&h=420&mode=crop&scale=both",
+      "time": "Há 21 horas",
+      "tag": "Tecnologia"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

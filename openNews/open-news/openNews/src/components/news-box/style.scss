@@ -1,0 +1,81 @@
+@import '../../assets/fonts/fonts.scss';
+
+$primary-color: blue;
+$secondary-color:black;
+$font-default: 'Open Sans', sans-serif;
+
+.ContainerPagination{
+  padding: 20px 0;
+  > nav{
+    direction:column !important;
+    align-items:center !important;
+    justify-content:center !important;
+    display: flex !important;
+  }
+  .MuiPaginationItem-page.Mui-selected {
+    color: white !important;
+    background-color: $secondary-color!important;
+  } 
+  .MuiSvgIcon-root{
+    color: $secondary-color!important;
+  }
+}
+.NewsContainer{
+  // border: 5px dashed $secondary-color;
+  display:block;
+  flex-direction:row;
+  margin: 15px !important;
+  display: flex;
+  flex-grow: 1;
+  max-width: 400px !important;
+  align-items: center;
+
+  cursor: pointer;
+  .NewsTitle{
+    color: $primary-color !important;
+    padding-left: 10px;
+    font-size: 26px !important;
+    font-family: $font-default;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 15px;
+    height: 120px;
+  }
+  .ContainerImage{
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-radius: 25px;
+    width: 380px;
+    height: 220px;
+    display: inline;
+    
+  }
+  .NewsPrimaryText{
+    color: $secondary-color ;
+    padding-left: 10px;
+    font-size: 16px !important;
+    font-family: $font-default;
+    font-weight: 700;
+    text-align: justify;
+    height: 120px;
+  }
+  .NewsDivider{
+    margin: 10px;
+  }
+  .HorizontalDiver{
+    margin: 0 30px;
+  }
+
+  .NewsSecondaryText{
+    color: #72646A !important;
+    padding-right: 10px;
+    font-size: 12px !important;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-family: $font-default;
+    padding-bottom: 10px;
+    text-align: end;
+  }
+}
